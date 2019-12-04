@@ -1,0 +1,12 @@
+diff a/httptest/src/main/java/cn/testfan/httptest/App.java b/httptest/src/main/java/cn/testfan/httptest/App.java	(rejected hunks)
+@@ -9,6 +9,10 @@
+     public static void main( String[] args )
+     {
+     	
++<<<<<<< HEAD
+         System.out.println( "Helloword" );
++=======
++        System.out.println( "v.1.0" );
++>>>>>>> v.1.0
+     }   
+ }
